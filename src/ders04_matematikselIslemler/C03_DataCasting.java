@@ -1,4 +1,4 @@
-package ders4_matematikselIslemler;
+package ders04_matematikselIslemler;
 
 import java.util.Scanner;
 
